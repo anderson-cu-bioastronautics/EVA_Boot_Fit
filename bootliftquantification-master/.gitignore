@@ -1,0 +1,12 @@
+*.h5
+imu/Data
+*.mat
+imu/.DS_Store
+.DS_Store
+*.zip
+*.csv
+*.asv
+imu_steven
+*.csv
+*.csv
+*.pdf
